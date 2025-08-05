@@ -1,0 +1,10 @@
+.display{
+  height: 50px;
+  margin: 14.5px;
+  font-size: 14.5px;
+  background-color: rgb(70, 143, 70);
+  border: transparent;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: 20px;
+}
