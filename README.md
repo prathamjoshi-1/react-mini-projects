@@ -1,4 +1,4 @@
-# ⚛️✨ React + Vite Mini Project 🚀🔧
+ii# ⚛️✨ React + Vite Mini Project 🚀🔧
 
 Welcome to the **React + Vite** Mini Project Repository!  
 This modern front-end setup gives you a blazing-fast ⚡ development experience powered by **Vite** and the flexibility of **React** for building dynamic UIs.
@@ -97,7 +97,7 @@ Example: ![App Screenshot](./src/assets/screenshot.png)
 
 🧑‍💻 Author & Contact
 
-Made with ❤️ by [Pratham Joehi]
+Made with ❤️ by [Pratham Joshi]
 🔗 GitHub: https://github.com/prathamjoshi-1
 
 
