@@ -1,4 +1,4 @@
-ijjjjjjjjjjkjjjjjjjjjjjgjiijikjjjjjjh# ⚛️🚀 React Mini Projects ✅🎉🔥
+jijjjjjjjjjjkjjjjjjjjjjjgjiijikjjjjjjh# ⚛️🚀 React Mini Projects ✅🎉🔥
 
 Welcome to my **React Mini Project Repository** ✨😎  
 This repo contains multiple **mini-projects** I built while learning React step by step ✅  
